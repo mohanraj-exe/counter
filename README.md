@@ -20,7 +20,7 @@ The Counter project is a straightforward web application that provides a counter
 
 ## Demo
 
-You can view the project live at Color Flipper Demo
+You can view the project live at Counter Demo
 
 ## Features
 
